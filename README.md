@@ -21,6 +21,15 @@ composer install
 # Copy the environment configuration file
 cp .env.example .env
 
+
+# Update your database credentials in the `.env` file:
+# DB_CONNECTION=mysql
+# DB_HOST=127.0.0.1
+# DB_PORT=3306
+# DB_DATABASE=your_database_name
+# DB_USERNAME=your_database_user
+# DB_PASSWORD=your_database_password
+
 # Update your .env file with the following settings:
 # SESSION_DRIVER=cookie
 # SANCTUM_STATEFUL_DOMAINS=localhost:8000,127.0.0.1:8000
