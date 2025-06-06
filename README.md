@@ -13,7 +13,7 @@
 git clone https://github.com/karltanjuan/rush-technical-exam
 
 # Navigate to the project directory
-cd user-management-app
+cd rush-technical-exam
 
 # Install PHP dependencies
 composer install
